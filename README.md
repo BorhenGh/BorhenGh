@@ -3,7 +3,43 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/borhen-ghrairi-48040b141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/borhen-ghrairi-48040b141/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/borhen-ghrairi-48040b141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/borh<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Borhen+GHRAIRI;Software+Engineer;Fullstack+Developer;Data+%26+Cloud+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+---
+
+## 🔗 Connect with me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/borhen-ghrairi-48040b141/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/borhen.ghrairi/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="mailto:borhenghrairi7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+# 👨‍💻 About Me  
+```yaml
+Software Engineer:
+  Focus: Fullstack Dev, Data Engineering, Cloud & DevOps
+  Experience:
+    - Java J2EE Customisation (Maximo)
+    - Business Intelligence with Azure Synapse, ADF, Power BI
+    - Fullstack: Spring Boot, Angular, ASP.NET
+    - DevOps: Docker, Kubernetes, Jenkins, Azure DevOps
+  Strengths:
+    - Strong analysis
+    - Technological adaptability
+    - Collaboration
+    - Time management 
+en-ghrairi-48040b141/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/borhen.ghrairi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/borhen.ghrairi/" height="30" width="40" /></a>
 </p>
 
